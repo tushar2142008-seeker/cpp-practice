@@ -8,6 +8,6 @@ int main()
     cin>>a;
     cout<<"Enter seconf number";
     cin>>b;
-    cou<<"sum = " << a + b ;
+    cout<<"sum = " << a + b ;
     return 0;
 }
